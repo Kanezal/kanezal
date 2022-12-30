@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning JS and NodeJS
 - 🤔 I’m looking for help with JS
 - 💬 Ask me about JS
-- ⚡ Fun fact: `NaN === NaN`
+- ⚡ Fun fact: NaN is not NaN
