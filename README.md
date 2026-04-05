@@ -1,7 +1,17 @@
-### Hi there 👋
+Backend engineer. Reverse engineer. Open source maintainer.
 
-- 🔭 I’m currently working on js projects
-- 🌱 I’m currently learning JS
-- 🤔 I’m looking for help with JS
-- 💬 Ask me about JS
-- ⚡ Fun fact: NaN != NaN
+Building developer tools for systems that weren't designed to be extended.
+
+### What I do
+
+- Author of [**better-antigravity**](https://github.com/Kanezal/better-antigravity) and [**antigravity-sdk**](https://github.com/Kanezal/antigravity-sdk) — the first community SDK for Google's Antigravity IDE. Recognized by Google on their official developer forum.
+- Backend architect at [Refresh](https://github.com/Kanezal) — SaaS platform with real-time billing, WebRTC remote desktop, and a custom Windows shell replacement.
+- Previously shipped a 50K-user Telegram Mini App with TON blockchain integration.
+
+### Stack
+
+`TypeScript` `Node.js` `NestJS` `PostgreSQL` `Redis` `C# .NET` `Docker` `Protobuf` `WebRTC` `ConnectRPC`
+
+### Contact
+
+[kanezal@proton.me](mailto:kanezal@proton.me)
