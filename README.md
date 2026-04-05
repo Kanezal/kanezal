@@ -12,10 +12,6 @@ Building developer tools for systems that weren't designed to be extended.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kanezal&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true" height="150" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanezal&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6" height="150" align="center" />
-
----
-
 `TypeScript` `Node.js` `NestJS` `PostgreSQL` `Redis` `C# .NET` `Docker` `Protobuf` `WebRTC` `ConnectRPC`
 
 [kanezal@proton.me](mailto:kanezal@proton.me)
